@@ -1,0 +1,5 @@
+This Notebook 2 contains the tuning of SARSA agent and the Q-agent. 
+
+
+1) Jupyter notebook runs the tuning sequentially, which takes a while to run (not recomended)
+2) A multiprocessing python file  -- tuning_multiprocessing.py file must be run from the command line-- (recomended)

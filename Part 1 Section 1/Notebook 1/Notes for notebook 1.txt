@@ -1,0 +1,9 @@
+The main purpose of the Notebook is to compare perforamnce of 3 agents:
+
+Sarsa vs Q-Agent vs Random Agent
+
+
+Coding material:
+1) Jupyter notebook for sequential code runnning.  This notebook also compiles the metrics together on the same graph. 
+2) Multiprocessing.py module for running the training in parallel -- run  notebook_1_multiprocessing.py from command line to take advantage of paraller code running.
+

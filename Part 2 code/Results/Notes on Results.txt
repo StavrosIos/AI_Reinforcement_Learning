@@ -1,0 +1,8 @@
+The directory includes:
+
+1.Visualizations of individual trades made by agents.
+2.Visualizations of cummulative reward for each agent during training, as percentages of rewards.
+3.Visulaizations of comparisons of the Agents using cummulative reward.
+
+
+
